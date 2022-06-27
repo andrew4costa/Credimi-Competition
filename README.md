@@ -2,7 +2,7 @@
 
 This was a part of a university challenge hosted by Credimi, an italian start-up that lends money to small-medium sized enterprises.
 
-The goal was to predicted - assuming that money had been lent to the SME - whether that company would be profitable in the long-term.
+The goal was to predict - assuming that money had been lent to the SME - whether that company would be profitable in the long-term.
 
 The approach adopted for this challenge:
 
